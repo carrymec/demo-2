@@ -1,0 +1,177 @@
+{
+  "status": 0,
+  "data": [
+    {
+      "categoryId": 15,
+      "parentId": 0,
+      "categoryName": "手机",
+      "status": 0,
+      "sort": 0,
+      "img": "http://pndsh3irn.bkt.clouddn.com/Fs5rWiBaykAH7KzGDXSDBVmw87EK",
+      "createTime": "2018-12-23",
+      "updateTime": "2018-12-23",
+      "childList": [
+        {
+          "categoryId": 21,
+          "parentId": 15,
+          "categoryName": "小米",
+          "status": 0,
+          "sort": 0,
+          "img": "",
+          "createTime": "2018-12-23",
+          "updateTime": "2018-12-23",
+          "childList": null
+        }
+      ]
+    },
+    {
+      "categoryId": 16,
+      "parentId": 0,
+      "categoryName": "家电",
+      "status": 0,
+      "sort": 0,
+      "img": "http://pndsh3irn.bkt.clouddn.com/Fvz9m2Ra4dfofkzhSen_CyiYH1xK",
+      "createTime": "2018-12-23",
+      "updateTime": "2018-12-23",
+      "childList": [
+        {
+          "categoryId": 22,
+          "parentId": 16,
+          "categoryName": "洗衣机",
+          "status": 0,
+          "sort": 0,
+          "img": "",
+          "createTime": "2018-12-23",
+          "updateTime": "2018-12-23",
+          "childList": null
+        }
+      ]
+    },
+    {
+      "categoryId": 17,
+      "parentId": 0,
+      "categoryName": "服饰",
+      "status": 0,
+      "sort": 0,
+      "img": "http://pndsh3irn.bkt.clouddn.com/FpeXNjSM8zwH9lR7MIa1ZRk7IOWF",
+      "createTime": "2018-12-23",
+      "updateTime": "2018-12-23",
+      "childList": [
+        {
+          "categoryId": 23,
+          "parentId": 17,
+          "categoryName": "羽绒服",
+          "status": 0,
+          "sort": 0,
+          "img": null,
+          "createTime": "2018-12-23",
+          "updateTime": "2018-12-23",
+          "childList": [
+            {
+              "categoryId": 28,
+              "parentId": 23,
+              "categoryName": "男式羽绒服",
+              "status": 0,
+              "sort": 0,
+              "img": null,
+              "createTime": null,
+              "updateTime": null,
+              "childList": null
+            },
+            {
+              "categoryId": 29,
+              "parentId": 23,
+              "categoryName": "女士羽绒服",
+              "status": 0,
+              "sort": null,
+              "img": null,
+              "createTime": null,
+              "updateTime": null,
+              "childList": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryId": 18,
+      "parentId": 0,
+      "categoryName": "二手车",
+      "status": 0,
+      "sort": 0,
+      "img": "http://pndsh3irn.bkt.clouddn.com/FgA1ozK30QfwTEc_1R8cHR5_P1MZ",
+      "createTime": "2018-12-23",
+      "updateTime": "2018-12-23",
+      "childList": [
+        {
+          "categoryId": 24,
+          "parentId": 18,
+          "categoryName": "奔驰",
+          "status": 0,
+          "sort": 0,
+          "img": null,
+          "createTime": "2018-12-23",
+          "updateTime": "2018-12-23",
+          "childList": null
+        }
+      ]
+    },
+    {
+      "categoryId": 19,
+      "parentId": 0,
+      "categoryName": "数码",
+      "status": 0,
+      "sort": 0,
+      "img": "http://pndsh3irn.bkt.clouddn.com/Fuf2nrEbni2tAJD08Zz1qvmegdS0",
+      "createTime": "2018-12-23",
+      "updateTime": "2018-12-23",
+      "childList": [
+        {
+          "categoryId": 25,
+          "parentId": 19,
+          "categoryName": "单反",
+          "status": 0,
+          "sort": 0,
+          "img": null,
+          "createTime": "2018-12-23",
+          "updateTime": "2018-12-23",
+          "childList": null
+        }
+      ]
+    },
+    {
+      "categoryId": 20,
+      "parentId": 0,
+      "categoryName": "户外",
+      "status": 0,
+      "sort": 0,
+      "img": "http://pndsh3irn.bkt.clouddn.com/Fn1wKHOtgIeAVJDbSYskzpiZLQvc",
+      "createTime": "2018-12-23",
+      "updateTime": "2018-12-23",
+      "childList": [
+        {
+          "categoryId": 26,
+          "parentId": 20,
+          "categoryName": "户外服饰",
+          "status": 0,
+          "sort": 0,
+          "img": null,
+          "createTime": "2018-12-23",
+          "updateTime": "2018-12-23",
+          "childList": null
+        },
+        {
+          "categoryId": 27,
+          "parentId": 20,
+          "categoryName": "户外工具",
+          "status": 0,
+          "sort": 0,
+          "img": null,
+          "createTime": "2018-12-23",
+          "updateTime": "2018-12-23",
+          "childList": null
+        }
+      ]
+    }
+  ]
+}
